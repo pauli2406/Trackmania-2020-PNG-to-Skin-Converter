@@ -1,3 +1,4 @@
+[![Starware](https://img.shields.io/badge/Starware-⭐-black?labelColor=f9b00d)](https://github.com/zepfietje/starware)
 # Trackmania 2020 PNG to Skin Converter
 
 Hey guys,
@@ -17,3 +18,9 @@ In some situation Windows will warn you, if you trust me :) just execute anyway.
 ## Requirements
 - OS: Windows 10
 - Python 3.8.5 https://www.python.org/downloads/ and add it to your path. Check if you can execute "python --version"
+
+## Starware
+
+Trackmania-2020-PNG-to-Skin-Converter is Starware.  
+This means you're free to use the project, as long as you star its GitHub repository.  
+Your appreciation makes us grow and glow up. ⭐
